@@ -4,7 +4,7 @@
 
 ### PLAY VIDEO
 
-[FOODSHOP VIDEO DEMO](https://youtu.be/REF7OBksKoc)
+[SWAGGER TEST FOODSHOP](https://youtu.be/oCvbD9eg_-Y)
 
 ### Tech Stack
 
